@@ -1,2 +1,2 @@
-# Glorin
+# Glowrin
 Unveil the glow within!
