@@ -1,2 +1,2 @@
-# Tsuki
-Where every Bite is Moonlit!
+# Glorin
+Unveil the glow within!
