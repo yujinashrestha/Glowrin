@@ -8,7 +8,7 @@ export default function Products() {
   return (
     <Layout>
       <Routetransition>
-        <div className="px-4  pt-14  py-10 max-w-[1200px] mx-auto">
+        <div className="px-4  pt-7 sm:pt-16  py-10 max-w-[1200px] mx-auto">
           <h1 className="text-3xl text-black font-bold text-center mb-8">All Products</h1>
 
           {/* Responsive grid layout */}

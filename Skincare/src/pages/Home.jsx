@@ -74,7 +74,7 @@ function Home() {
       {/* WHY GLOWRIN Section */}
       <motion.div className="px-4 sm:px-6 md:px-12 py-12">
         <motion.h1
-          className="text-center text-black font-semibold p-5 font-family-swash text-2xl sm:text-3xl md:text-4xl"
+          className="text-center text-black sm:text-white font-semibold p-5 font-family-swash text-2xl sm:text-3xl md:text-4xl"
           initial={{ opacity: 0, y: 50 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: 'easeOut' }}

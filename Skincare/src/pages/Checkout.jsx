@@ -75,7 +75,7 @@ function Checkout() {
           {/* ----- Right-side Toast ----- */}
           
 
-          <h1 className="text-black pt-7 text-2xl sm:text-3xl md:text-4xl font-bold mb-8 text-center">
+          <h1 className="text-black pt-7 sm:pt-16 text-2xl sm:text-3xl md:text-4xl font-bold mb-8 text-center">
             Checkout
           </h1>
 
