@@ -10,7 +10,7 @@ function Sales() {
   return (
     <Layout>
       <Routetransition>
-        <div className="px-4 sm:px-6 md:px-12 py-6 min-h-screen">
+        <div className="px-4 sm:px-6 sm:pt-16 md:px-12 py-6 min-h-screen">
           <h2 className="text-2xl sm:text-3xl font-semibold mt-12 text-center mb-6">
             Sales and Discounts
           </h2>

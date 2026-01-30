@@ -12,7 +12,7 @@ function Bestsellers() {
   return (
     <Layout>
       <Routetransition>
-        <div className="px-4 sm:px-6 md:px-12 py-8 md:py-12">
+        <div className="px-4 sm:pt-16 sm:px-6 md:px-12 py-8 md:py-12">
           {/* Heading */}
           <h2 className="text-2xl sm:text-3xl font-semibold mt-10 md:mt-16 text-center mb-6 md:mb-10">
             Our Best Sellers
