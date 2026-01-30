@@ -22,8 +22,8 @@ function Cart() {
   return (
     <Layout>
       <Routetransition>
-        <div className="max-w-5xl mx-auto mt-10 px-4 pt-7 sm:pt-28 sm:px-6 py-6">
-          <h1 className="text-2xl sm:text-3xl sm:pt-9 font-bold mb-6 text-center text-black">
+        <div className="max-w-5xl mx-auto mt-10 px-4 pt-7  sm:px-6 py-6">
+          <h1 className="text-2xl sm:text-3xl  font-bold mb-6 text-center text-black">
             Your Cart
           </h1>
 

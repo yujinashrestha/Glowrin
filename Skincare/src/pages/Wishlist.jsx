@@ -13,10 +13,10 @@ function Wishlist() {
     <Layout>
       <Routetransition>
         {/* Outer container with max width and auto margin for equal left/right spacing */}
-        <div className="px-4 sm:pt-28 sm:px-6 lg:px-12 py-20 min-h-screen max-w-[1400px] mx-auto">
+        <div className="px-4 sm:px-6 lg:px-12 py-20 min-h-screen max-w-[1400px] mx-auto">
           
           {/* Heading */}
-          <h1 className="text-3xl sm:text-4xl sm:pt-9 font-bold text-center mb-12 text-gray-800">
+          <h1 className="text-3xl sm:text-4xl font-bold text-center mb-12 text-gray-800">
             Your Wishlist
           </h1>
 
