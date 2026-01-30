@@ -5,6 +5,7 @@ import ProductCard from "../components/ProductCard";
 import Routetransition from "../components/Routetransition";
 import Layout from "../components/Layout";
 
+// Custom hook to read query parameters
 function useQuery() {
   return new URLSearchParams(useLocation().search);
 }
@@ -16,6 +17,7 @@ function Categories() {
   const [category, setCategory] = useState("");
   const [filteredProducts, setFilteredProducts] = useState([]);
 
+  // Filter products based on category
   useEffect(() => {
     if (categoryName) {
       setCategory(categoryName);
